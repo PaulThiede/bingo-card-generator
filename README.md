@@ -3,10 +3,12 @@ Takes categories with questions from a JSON, picks a select number of questions 
 
 
 ## Installation
-`python3 -m venv venv`
-`.\venv\Scripts\activate` (Windows)
-`source ./venv/bin/activate` (Linux/Mac)
-`python3 -m pip install reportlab`
+```
+python3 -m venv venv
+.\venv\Scripts\activate # Windows
+source ./venv/bin/activate # Linux/Mac
+python3 -m pip install reportlab
+```
 
 ## Usage
 
