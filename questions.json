@@ -1,0 +1,182 @@
+{
+  "title": "Find somebody who…",
+  "rules": "Get a different person to sign each square. Five in a row (horizontal, vertical or diagonal) wins!",
+
+  "categories": [
+    {
+      "code": "S",
+      "name": "Sport",
+      "questions": [
+        "plays table tennis",
+        "goes to the gym regularly",
+        "plays football in a club",
+        "has run a half marathon or more",
+        "plays badminton or tennis",
+        "goes climbing or bouldering",
+        "plays basketball or volleyball",
+        "swims regularly",
+        "does martial arts",
+        "does yoga or dances regularly"
+      ]
+    },
+    {
+      "code": "K",
+      "name": "Kreativ / Musik",
+      "questions": [
+        "plays piano",
+        "plays guitar",
+        "plays an instrument other than piano or guitar",
+        "sings in a choir or band",
+        "draws or paints regularly",
+        "writes their own songs or stories",
+        "has acted in a theatre play",
+        "takes photos as a serious hobby",
+        "knits, crochets or sews",
+        "does DIY or crafts"
+      ]
+    },
+    {
+      "code": "U",
+      "name": "Studium",
+      "questions": [
+        "studies Computer Science",
+        "studies Mechanical Engineering",
+        "studies Electrical Engineering",
+        "studies Business or Economics",
+        "studies Math, Physics, Chemistry or Biology",
+        "studies Architecture, Design or Social Sciences",
+        "studies at h_da",
+        "studies at TUD",
+        "is in their 1st semester",
+        "studies for a Master’s degree"
+      ]
+    },
+    {
+      "code": "E",
+      "name": "Essen / Trinken",
+      "questions": [
+        "is vegetarian",
+        "is vegan",
+        "has Cola Zero as favorite drink",
+        "drinks 3+ coffees a day",
+        "prefers tea over coffee",
+        "has pizza as favorite food",
+        "has döner as favorite food",
+        "likes pineapple on pizza",
+        "loves very spicy food",
+        "can bake a cake without a recipe",
+        "can cook a dish from their home country",
+        "usually skips breakfast"
+      ]
+    },
+    {
+      "code": "L",
+      "name": "Sprache",
+      "questions": [
+        "speaks Spanish",
+        "speaks French",
+        "speaks Turkish",
+        "speaks Arabic",
+        "speaks Russian",
+        "speaks Portuguese",
+        "speaks Chinese or Japanese",
+        "speaks Hindi",
+        "speaks Italian",
+        "speaks Polish",
+        "speaks 3+ languages fluently (C1+)"
+      ]
+    },
+    {
+      "code": "M",
+      "name": "Medien / Gaming",
+      "questions": [
+        "is really into Science Fiction",
+        "is really into Fantasy",
+        "loves thrillers or true crime",
+        "watches anime or reads manga",
+        "loves horror movies",
+        "plays video games every week",
+        "plays board games or D&D",
+        "reads at least one book a month",
+        "listens to Hip-Hop",
+        "listens to Rock or Metal"
+      ]
+    },
+    {
+      "code": "R",
+      "name": "Reisen / Herkunft",
+      "questions": [
+        "has visited Portugal",
+        "has visited Italy",
+        "has visited the USA",
+        "has visited Japan",
+        "has visited Turkey",
+        "has visited any country in Africa",
+        "has lived abroad for 3+ months",
+        "was born outside Germany",
+        "grew up in a village with under 1000 people",
+        "was born in Hessen"
+      ]
+    },
+    {
+      "code": "W",
+      "name": "Wohnen / Darmstadt",
+      "questions": [
+        "has lived in a WG before",
+        "has had their own apartment",
+        "lives here for over a year",
+        "goes home to their family every weekend",
+        "has been to the Schlossgrabenfest",
+        "has swum in the Großer Woog",
+        "has been to a Lilien match",
+        "owns a bike in Darmstadt"
+      ]
+    },
+    {
+      "code": "X",
+      "name": "Exotisch / Erlebnisse",
+      "questions": [
+        "has been on TV or in a newspaper",
+        "has won a contest or raffle",
+        "has done bungee jumping or skydiving",
+        "has met a celebrity",
+        "can juggle",
+        "can do a magic trick",
+        "can solve a Rubik’s cube",
+        "has eaten insects",
+        "is left-handed",
+        "has a tattoo",
+        "has broken a bone",
+        "has performed on stage in front of 100+ people"
+      ]
+    },
+    {
+      "code": "A",
+      "name": "Alltag / Persönlichkeit",
+      "questions": [
+        "is a night owl",
+        "gets up before 6:30 voluntarily",
+        "has a pet at home",
+        "does volunteer work",
+        "has 3+ siblings",
+        "has a driver’s license",
+        "has changed their major"
+      ]
+    }
+  ],
+
+  "free_code": "-",
+
+  "blueprints": [
+    ["K E R X S", "U L M W A", "E K - R X", "S X L K W", "R A E M U"],
+    ["L U M A W", "E K R S X", "K E - X R", "A R E U M", "X S L W K"],
+    ["E A M U K", "W L R X S", "X K - R E", "K U X E R", "A S W L M"],
+    ["E L R U X", "R M E K S", "X W - M R", "K A X E W", "U S K A L"],
+    ["L E K X R", "U S A W M", "E K - R X", "S R W E L", "M A X U K"],
+    ["E W X K A", "A L K U S", "M R - X W", "U X R E L", "K S E R M"],
+    ["M L W S A", "R E X U K", "E R - K X", "S X R L W", "K U M A E"],
+    ["L U E S M", "E S K R A", "K A - W X", "X W R E U", "R M X L K"],
+    ["L A K S U", "W E X A K", "R M - W X", "S K E M R", "X U R L E"],
+    ["X W S L K", "M R E A U", "K E - X R", "E K R W X", "S A U M L"]
+  ]
+}
