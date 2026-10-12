@@ -151,7 +151,7 @@ def draw_card(c, grid, x0, y0, w, h, cfg, show_category):
 
     c.setFillColor(black)
     c.setFont(FONT, 10)
-    c.drawRightString(gx + gw, y0 + h - margin_top - 7 * mm, "Name: ______________________")
+    c.drawRightString(gx + gw, y0 + h - margin_top - 7 * mm, "Team Name: ______________________")
 
     # Felder
     for r, row in enumerate(grid):
