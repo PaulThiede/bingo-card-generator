@@ -20,8 +20,8 @@
       ]
     },
     {
-      "code": "K",
-      "name": "Kreativ / Musik",
+      "code": "C",
+      "name": "Creative / Music",
       "questions": [
         "plays piano",
         "plays guitar",
@@ -37,7 +37,7 @@
     },
     {
       "code": "U",
-      "name": "Studium",
+      "name": "University",
       "questions": [
         "studies Computer Science",
         "studies Mechanical Engineering",
@@ -52,8 +52,8 @@
       ]
     },
     {
-      "code": "E",
-      "name": "Essen / Trinken",
+      "code": "F",
+      "name": "Food / Drinks",
       "questions": [
         "is vegetarian",
         "is vegan",
@@ -71,7 +71,7 @@
     },
     {
       "code": "L",
-      "name": "Sprache",
+      "name": "Languages",
       "questions": [
         "speaks Spanish",
         "speaks French",
@@ -88,7 +88,7 @@
     },
     {
       "code": "M",
-      "name": "Medien / Gaming",
+      "name": "Media / Gaming",
       "questions": [
         "is really into Science Fiction",
         "is really into Fantasy",
@@ -103,8 +103,8 @@
       ]
     },
     {
-      "code": "R",
-      "name": "Reisen / Herkunft",
+      "code": "T",
+      "name": "Travel / Origin",
       "questions": [
         "has visited Portugal",
         "has visited Italy",
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "code": "W",
-      "name": "Wohnen / Darmstadt",
+      "code": "H",
+      "name": "Housing / Darmstadt",
       "questions": [
         "has lived in a WG before",
         "has had their own apartment",
@@ -133,8 +133,8 @@
       ]
     },
     {
-      "code": "X",
-      "name": "Exotisch / Erlebnisse",
+      "code": "E",
+      "name": "Exotic / Experiences",
       "questions": [
         "has been on TV or in a newspaper",
         "has won a contest or raffle",
@@ -151,8 +151,8 @@
       ]
     },
     {
-      "code": "A",
-      "name": "Alltag / Persönlichkeit",
+      "code": "D",
+      "name": "Daily Life / Personality",
       "questions": [
         "is a night owl",
         "gets up before 6:30 voluntarily",
@@ -168,15 +168,15 @@
   "free_code": "-",
 
   "blueprints": [
-    ["K E R X S", "U L M W A", "E K - R X", "S X L K W", "R A E M U"],
-    ["L U M A W", "E K R S X", "K E - X R", "A R E U M", "X S L W K"],
-    ["E A M U K", "W L R X S", "X K - R E", "K U X E R", "A S W L M"],
-    ["E L R U X", "R M E K S", "X W - M R", "K A X E W", "U S K A L"],
-    ["L E K X R", "U S A W M", "E K - R X", "S R W E L", "M A X U K"],
-    ["E W X K A", "A L K U S", "M R - X W", "U X R E L", "K S E R M"],
-    ["M L W S A", "R E X U K", "E R - K X", "S X R L W", "K U M A E"],
-    ["L U E S M", "E S K R A", "K A - W X", "X W R E U", "R M X L K"],
-    ["L A K S U", "W E X A K", "R M - W X", "S K E M R", "X U R L E"],
-    ["X W S L K", "M R E A U", "K E - X R", "E K R W X", "S A U M L"]
+    ["C F T E S", "U L M H D", "F C - T E", "S E L C H", "T D F M U"],
+    ["L U M D H", "F C T S E", "C F - E T", "D T F U M", "E S L H C"],
+    ["F D M U C", "H L T E S", "E C - T F", "C U E F T", "D S H L M"],
+    ["F L T U E", "T M F C S", "E H - M T", "C D E F H", "U S C D L"],
+    ["L F C E T", "U S D H M", "F C - T E", "S T H F L", "M D E U C"],
+    ["F H E C D", "D L C U S", "M T - E H", "U E T F L", "C S F T M"],
+    ["M L H S D", "T F E U C", "F T - C E", "S E T L H", "C U M D F"],
+    ["L U F S M", "F S C T D", "C D - H E", "E H T F U", "T M E L C"],
+    ["L D C S U", "H F E D C", "T M - H E", "S C F M T", "E U T L F"],
+    ["E H S L C", "M T F D U", "C F - E T", "F C T H E", "S D U M L"]
   ]
 }
